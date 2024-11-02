@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b64691194c5f43e469c5f03f11443523, type: 3}
+  m_Name: VariationDatabase
+  m_EditorClassIdentifier: 
+  groups:
+  - name: A
+    oppoName: V
+  - name: 8
+    oppoName: 0
+  - name: \
+    oppoName: /
+  - name: '|'
+    oppoName: /
+  - name: '}'
+    oppoName: ']'
+  - name: ''''
+    oppoName: '"'
+  - name: ;
+    oppoName: ':'
+  - name: '-'
+    oppoName: _
+  - name: '-'
+    oppoName: ~
+  - name: '@'
+    oppoName: '#'
+  - name: ^
+    oppoName: '`'
+  - name: '*'
+    oppoName: ^
+  - name: '>'
+    oppoName: <
+  - name: <
+    oppoName: '>'
+  - name: ':'
+    oppoName: ;
+  - name: i
+    oppoName: j
+  - name: I
+    oppoName: L
+  - name: I
+    oppoName: J
+  - name: .
+    oppoName: ','
+  - name: m
+    oppoName: n
+  - name: H
+    oppoName: B
+  - name: C
+    oppoName: O
+  - name: p
+    oppoName: b
+  - name: y
+    oppoName: u
